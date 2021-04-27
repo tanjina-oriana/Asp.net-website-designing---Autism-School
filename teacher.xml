@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<teacher>
+  <teacherinfo tname="Shoma Haque" area="Special Education Teacher" qualification="ASD" />
+  <teacherinfo tname="Shahidul Alam" area="Behavior Analyst" qualification="Diploma special education" />
+  <teacherinfo tname="Ashik Reyadh" area="Art Therapist" qualification="elementary education" />
+  <teacherinfo tname="Ibne Fazl" area="Physical Education" qualification="ASD"/>
+  <teacherinfo tname="Manoj Kumar" area="Behavior Analyst" qualification="M.Ed" />
+  <teacherinfo tname="Shahazad Pervez" area="Special Education Teacher" qualification="Psychology" />
+  <teacherinfo tname="Quzi Afroza" area="Dance Therapist" qualification="M.Ed" />
+  <teacherinfo tname="Ali Akbar" area="Behavior Analyst" qualification="Psychology" />
+</teacher>
